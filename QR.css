@@ -1,0 +1,40 @@
+.builder{
+    border: 1px solid none;
+    background-color: rgb(158, 205, 235);
+    height: 1000px;
+    width: 1500px;
+    padding: 10px;
+    position: relative;
+    top: 10%;
+    left: 20%;
+    text-align: center;      
+        }
+
+.container{background-color: white;
+    border-radius: 25px;
+ padding: 20px;
+ width: 400px;
+ position: relative;
+ top: 15%;
+ left: 35%;
+ text-align: center;    
+}
+
+img {border-radius: 25px;}
+
+.container .container2 {color: black;}
+
+.container .container2 .sentence1{
+    font-weight: bold;
+    font-size: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(4, 4, 27);
+}
+
+.container .container2 .sentence2{
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(66, 62, 62);
+}
+    
+
